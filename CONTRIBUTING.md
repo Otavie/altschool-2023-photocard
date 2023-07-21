@@ -112,13 +112,13 @@ After you have cloned the repository, to add your photocard details, take the fo
 #### Note: Your photo should be square shape preferably 500px by 500px
 #### Note: Your photo should be be added to the img folder in the clone repository
 
-2. **Add Social Media Links:** Customize the social media links in the `<ul class="socials">` section. Update the anchor (`<a>`) tags with your social media profiles or any other relevant links.
+4. **Add Social Media Links:** Customize the social media links in the `<ul class="socials">` section. Update the anchor (`<a>`) tags with your social media profiles or any other relevant links.
 
-3. **Preview:** Open the `index.html` file in your web browser to preview your personalized photocard. Ensure that all details are accurate and the social media links are functioning correctly.
+5. **Preview:** Open the `index.html` file in your web browser to preview your personalized photocard. Ensure that all details are accurate and the social media links are functioning correctly.
 
-4. **Deploy:** Once you are satisfied with your photocard, you can deploy it to a web server or hosting service to share it with others.
+6. **Deploy:** Once you are satisfied with your photocard, you can deploy it to a web server or hosting service to share it with others.
 
-5. **Add Your Name:** Add your name to the list of contributors by opening the [Contributors.md](https://github.com/Otavie/altshoolers-2023-photocard/blob/master/Contributors.md) file and adding your name with your GitHub username.
+7. **Add Your Name:** Add your name to the list of contributors by opening the [Contributors.md](https://github.com/Otavie/altshoolers-2023-photocard/blob/master/Contributors.md) file and adding your name with your GitHub username.
 
 
 ### THANK YOU
@@ -126,5 +126,5 @@ Thank you for your contributions.
 
 ## Further Improvement
 
-We welcome contributions from all AltSchoolers, Class of 2023! If you have ideas for improvements or additional features, feel free to fork the repository, make your changes, and submit a pull request.
+We welcome contributions from all AltSchoolers, Class of 2023! If you have ideas for improvements or additional features, feel free to raise an issue.
 

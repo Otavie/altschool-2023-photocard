@@ -11,7 +11,7 @@ This project is an open-source project designed for all AltSchoolers, class of 2
 
 ## Contributing
 
-For more information to go about this click [CONTRIBUTING.md](https://github.com/Otavie/altshoolers-2023-photocard/blob/master/CONTRIBUTING.md)
+For more information to go about this click [CONTRIBUTING.md](https://github.com/Otavie/altschool-2023-photocard/blob/main/CONTRIBUTING.md)
 
 
 ## Disclaimer
@@ -21,7 +21,7 @@ Please ensure that you have permission to use and share the images, names, and o
 
 ## Credits
 
-The AltSchooler 2023 was originally created by [Otavie Okuoyo](https://github.com/Otavie). Since its inception, numerous other contributors have generously added their own contributions to the project. A complete list of these valuable contributors can be found in [Contributors.md](https://github.com/Otavie/altshoolers-2023-photocard/blob/master/Contributors.md). Their efforts and contributions have helped shape and enhance the Movie Quote Generator, making it a collaborative and vibrant open-source project.
+The AltSchooler 2023 was originally created by [Otavie Okuoyo](https://github.com/Otavie). Since its inception, numerous other contributors have generously added their own contributions to the project. A complete list of these valuable contributors can be found in [Contributors.md](https://github.com/Otavie/altschool-2023-photocard/blob/main/Contributors.md). Their efforts and contributions have helped shape and enhance the Movie Quote Generator, making it a collaborative and vibrant open-source project.
 
 
 ## Questions?

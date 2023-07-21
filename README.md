@@ -35,4 +35,4 @@ If you have any questions, please contact me at:
 
 ## License
 
-The Movie Quote Generator is licensed under the [MIT License](https://opensource.org/licenses/MIT). See the `LICENSE` file for details.
+The AltSchoolers Class 2023 Project is licensed under the [MIT License](https://opensource.org/licenses/MIT). See the `LICENSE` file for details.

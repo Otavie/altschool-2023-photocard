@@ -145,7 +145,7 @@ body {
 }
 
 h3.student-name {
-  font-size: 1.5rem;
+  font-size: 1.125rem;
   margin-top: 1rem;
   margin-bottom: 0.5rem;
   font-weight: 600;
@@ -155,7 +155,7 @@ h3.student-name {
 }
 
 h4.student-stack {
-  font-size: 1.25rem;
+  font-size: 1rem;
   text-align: center;
   font-family: var(--ff-primary-head);
 }
@@ -276,7 +276,10 @@ footer {
     width: 90%;
   }
   h3.student-name {
-    font-size: 1.75rem;
+    font-size: 1.3rem;
+  }
+  h4.student-stack {
+    font-size: 1.125rem;
   }
 }
 
@@ -292,7 +295,10 @@ footer {
         grid-template-columns: repeat(3, 1fr);
   }
   h3.student-name {
-    font-size: 2rem;
+    font-size: 1.5rem;
+  }
+  h4.student-stack {
+    font-size: 1.25rem;
   }
 }
 

@@ -86,27 +86,28 @@ body {
 
 .photo-container {
   width: 100%;
-  min-height: calc(100vh - 250px);
-  display: -ms-grid;
-  display: grid;
-  -ms-grid-column-align: center;
-      justify-self: center;
-  -webkit-box-align: start;
-      -ms-flex-align: start;
-          align-items: start;
-  -webkit-box-pack: justify;
-      -ms-flex-pack: justify;
-          justify-content: space-between;
   margin: 2rem auto;
-  -ms-grid-columns: (1fr)[1];
-      grid-template-columns: repeat(1, 1fr);
-  row-gap: 30px;
+  padding: 2rem 0;
+  min-height: calc(100vh - 250px);
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  row-gap: 2.5rem;
+  -webkit-column-gap: 1rem;
+          column-gap: 1rem;
   font-family: var(--ff-secondary-head);
 }
 
 .photocard {
-  width: 75%;
-  width: 95%;
+  width: 350px;
   min-height: 500px;
   border: 1px solid var(--fc-photocard);
   display: -webkit-box;
@@ -267,11 +268,6 @@ footer {
 }
 
 @media only screen and (min-width: 768px) {
-  .photo-container {
-    width: 100%;
-    -ms-grid-columns: (1fr)[2];
-        grid-template-columns: repeat(2, 1fr);
-  }
   .main {
     width: 90%;
   }
@@ -287,13 +283,6 @@ footer {
   .main {
     width: 95%;
   }
-  .photo-container {
-    width: 100%;
-    display: -ms-grid;
-    display: grid;
-    -ms-grid-columns: (1fr)[3];
-        grid-template-columns: repeat(3, 1fr);
-  }
   h3.student-name {
     font-size: 1.5rem;
   }
@@ -305,12 +294,5 @@ footer {
 @media only screen and (min-width: 1350px) {
   .main {
     width: 95%;
-  }
-  .photo-container {
-    width: 100%;
-    display: -ms-grid;
-    display: grid;
-    -ms-grid-columns: (1fr)[4];
-        grid-template-columns: repeat(4, 1fr);
   }
 }

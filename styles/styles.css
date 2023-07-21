@@ -151,6 +151,7 @@ h3.student-name {
   font-weight: 600;
   font-family: var(--ff-secondary-head);
   color: #0D47A1;
+  text-align: center;
 }
 
 h4.student-stack {

@@ -9,3 +9,4 @@
 - [Abiodun Ogunleye](https://github.com/temibiodun)
 - [Chibuzor Ojukwu](https://github.com/codedken)
 - [Rawlings Chukwudi](https://github.com/macrawl)
+- [Temidire Adelaja](https://github.com/Temiclint)

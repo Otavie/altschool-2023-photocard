@@ -120,6 +120,8 @@ After you have cloned the repository, to add your photocard details, take the fo
 
 7. **Add Your Name:** Add your name to the list of contributors by opening the [Contributors.md](https://github.com/Otavie/altshoolers-2023-photocard/blob/master/Contributors.md) file and adding your name with your GitHub username.
 
+8. **STAR THE OPEN SOURCE REPO:**
+
 
 ### THANK YOU
 Thank you for your contributions.

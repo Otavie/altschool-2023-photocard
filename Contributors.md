@@ -8,6 +8,8 @@
 - [Sybil Obodoekwe](https://github.com/sibylobodoekwe)
 - [Abiodun Ogunleye](https://github.com/temibiodun)
 - [Chibuzor Ojukwu](https://github.com/codedken)
+- [Miriam Elegonye](https://github.com/Miriam190)
 - [Rawlings Chukwudi](https://github.com/macrawl)
 - [Temidire Adelaja](https://github.com/Temiclint)
 - [Sulaimon Rasheed](https://github.com/Sulaimon-Rasheed)
+

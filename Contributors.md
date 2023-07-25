@@ -10,3 +10,4 @@
 - [Chibuzor Ojukwu](https://github.com/codedken)
 - [Rawlings Chukwudi](https://github.com/macrawl)
 - [Temidire Adelaja](https://github.com/Temiclint)
+- [Sulaimon Rasheed](https://github.com/Sulaimon-Rasheed)

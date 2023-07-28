@@ -12,4 +12,5 @@
 - [Rawlings Chukwudi](https://github.com/macrawl)
 - [Temidire Adelaja](https://github.com/Temiclint)
 - [Sulaimon Rasheed](https://github.com/Sulaimon-Rasheed)
+- [Mishael Enyi](https://github.com/mishael-codes)
 

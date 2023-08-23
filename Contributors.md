@@ -18,3 +18,4 @@
 - [Viashima Collins](https://github.com/clins10)
 - [Tahir Adeleye](https://github.com/Tahir-DA-DS)
 - [Okome Udogri](https://github.com/Okomeudogri)
+- [Abdulrahman Ismael](https://github.com/AbdulrahmanIsmael)

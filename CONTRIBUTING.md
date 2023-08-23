@@ -20,7 +20,6 @@ git clone <copied-url>
 
 where <copied-url> (without the lesser than and greater than signs <>) is the url to this repository (your fork of this project). See the previous steps to obtain the url.
 
-
 ## 3) Create a Branch
 
 #### _Note: Make sure you have created a branch before you start working on the project._ <br />
@@ -44,6 +43,7 @@ git checkout <branch-name>
 ```
 
 ## 4) Make Necessary Changes and Commit those Changes
+
 ### Check out STEPS TO ADDING YOUR PHOTOCARD DETAILS below
 
 Add those changes to the branch you just created using the `git add` command:
@@ -51,6 +51,7 @@ Add those changes to the branch you just created using the `git add` command:
 ```
 git add <file-name>
 ```
+
 Now commit those changes using the `git commit` command:
 
 ```
@@ -76,8 +77,8 @@ To initiate a pull request on GitHub, navigate to your repository and locate the
 Now submit the pull request.
 
 ## 7) Wait, for Response from the Reviewer
-An email will be send to let you know if your request was accepted or rejected.
 
+An email will be send to let you know if your request was accepted or rejected.
 
 ## How to Make the Necessary Changes (STEPS TO ADDING YOUR PHOTOCARD DETAILS)
 
@@ -87,29 +88,49 @@ After you have cloned the repository, to add your photocard details, take the fo
 
 ```html
 <div class="photocard">
-    <div class="image-card">
-        <img src="/img/<image-file-name>" alt="Your Name">
+  <div class="image-card">
+    <img src="/img/image-file-name" alt="Your Name" />
+  </div>
+  <div class="text-card">
+    <div class="intro">
+      <h3 class="student-name">First-Name Last Name</h3>
+      <h4 class="student-stack">Your track e.g. Frontend Developer</h4>
     </div>
-    <div class="text-card">
-        <div class="intro">
-            <h3 class="student-name">First-Name Last Name</h3>
-            <h4 class="student-stack">Your track e.g. Frontend Developer</h4>
-        </div>
-        <ul class="socials">
-            <a href="link-to-your-github"><li class="social-item"><i class="fa-brands fa-github"></i> => smith-patrick</li></a>
-            <a href="link-to-your-linkedin"><li class="social-item"><i class="fa-brands fa-linkedin"></i> => smith-patrick</li></a>
-            <a href="link-to-your-twitter-account"><li class="social-item"><i class="fa-brands fa-twitter"></i> => smith-patrick</li></a>
-            <a href="link-to-your-website. Put N/A if you don't have"><li class="social-item"><i class="fa-solid fa-globe"></i> => smith-patrick.com</li></a>
-        </ul>
-    </div>
+    <ul class="socials">
+      <li class="social-item">
+        <a href="link-to-your-github" target="_blank">
+          <i class="fa-brands fa-github"></i> smith-patrick
+        </a>
+      </li>
+      <li class="social-item">
+        <a href="link-to-your-linkedin" target="_blank">
+          <i class="fa-brands fa-linkedin"></i> smith-patrick
+        </a>
+      </li>
+      <li class="social-item">
+        <a href="link-to-your-twitter-account" target="_blank">
+          <i class="fa-brands fa-twitter"></i> smith-patrick
+        </a>
+      </li>
+      <li class="social-item">
+        <a
+          href="link-to-your-website. Put N/A if you don't have"
+          target="_blank"
+        >
+          <i class="fa-solid fa-globe"></i> smith-patrick.com
+        </a>
+      </li>
+    </ul>
+  </div>
 </div>
 ```
 
-2. **Copy and Paste:** Copy (without the comments) the Commented photocard div  from the opening `<div class="photocard">` to the closing `div` and paste it just above the commented div
+2. **Copy and Paste:** Copy (without the comments) the Commented photocard div from the opening `<div class="photocard">` to the closing `div` and paste it just above the commented div
 
 3. **Replace Details:** Replace the sample data with your own image, name, specialization, and social media links.
 
 #### Note: Your photo should be square shape preferably 500px by 500px
+
 #### Note: Your photo should be be added to the img folder in the clone repository
 
 4. **Add Social Media Links:** Customize the social media links in the `<ul class="socials">` section. Update the anchor (`<a>`) tags with your social media profiles or any other relevant links.
@@ -122,11 +143,10 @@ After you have cloned the repository, to add your photocard details, take the fo
 
 8. **STAR THE OPEN SOURCE REPO:**
 
-
 ### THANK YOU
+
 Thank you for your contributions.
 
 ## Further Improvement
 
 We welcome contributions from all AltSchoolers, Class of 2023! If you have ideas for improvements or additional features, feel free to raise an issue.
-
